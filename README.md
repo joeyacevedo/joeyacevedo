@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @joeyacevedo
 - 🌱 I’m currently learning Javascript, CSS, and HTML.
-- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/josephacevedo/)
+- 📫 How to reach me -> [LinkedIn](https://www.linkedin.com/in/josephacevedo/)
